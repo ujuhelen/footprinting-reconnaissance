@@ -1,0 +1,10 @@
+2026-09-24T09:42:41.505749+0100 INFO Starting enumeration for domain: networkwalks.com
+2026-09-24T09:42:41.507308+0100 INFO std: Performing General Enumeration against: networkwalks.com...
+2026-09-24T09:42:46.619118+0100 ERROR No answer for DNSSEC query for networkwalks.com
+2026-09-24T09:42:49.635821+0100 ERROR Exception "The DNS operation timed out." while resolving SOA record.
+2026-09-24T09:42:49.636589+0100 ERROR Error while resolving SOA while using 10.49.3.29 as nameserver.
+2026-09-24T09:42:55.889458+0100 INFO 	 A networkwalks.com 192.232.216.135
+2026-09-24T09:43:11.423275+0100 INFO Enumerating SRV Records
+2026-09-24T09:43:33.250270+0100 ERROR No SRV Records Found for networkwalks.com
+2026-09-24T09:43:33.250844+0100 INFO Completed enumeration for domain: networkwalks.com
+
